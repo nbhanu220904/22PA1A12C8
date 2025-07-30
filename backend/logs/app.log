@@ -1,0 +1,13 @@
+{"timestamp":"2025-07-30T05:12:25.472Z","level":"INFO","message":"Cleanup service started"}
+{"timestamp":"2025-07-30T05:12:26.258Z","level":"INFO","message":"Incoming request","method":"GET","url":"/","ip":"127.0.0.1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp":"2025-07-30T05:12:26.293Z","level":"INFO","message":"Request completed","method":"GET","url":"/","statusCode":404,"duration":"36ms"}
+{"timestamp":"2025-07-30T05:12:32.562Z","level":"INFO","message":"Incoming request","method":"GET","url":"/","ip":"127.0.0.1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp":"2025-07-30T05:12:32.576Z","level":"INFO","message":"Request completed","method":"GET","url":"/","statusCode":404,"duration":"14ms"}
+{"timestamp":"2025-07-30T05:12:40.772Z","level":"INFO","message":"Incoming request","method":"GET","url":"/","ip":"127.0.0.1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp":"2025-07-30T05:12:40.775Z","level":"INFO","message":"Request completed","method":"GET","url":"/","statusCode":404,"duration":"3ms"}
+{"timestamp":"2025-07-30T05:12:48.979Z","level":"INFO","message":"Incoming request","method":"GET","url":"/","ip":"127.0.0.1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp":"2025-07-30T05:12:48.992Z","level":"INFO","message":"Request completed","method":"GET","url":"/","statusCode":404,"duration":"13ms"}
+{"timestamp":"2025-07-30T05:12:57.298Z","level":"INFO","message":"Incoming request","method":"GET","url":"/","ip":"127.0.0.1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp":"2025-07-30T05:12:57.347Z","level":"INFO","message":"Request completed","method":"GET","url":"/","statusCode":404,"duration":"50ms"}
+{"timestamp":"2025-07-30T05:13:05.435Z","level":"INFO","message":"Incoming request","method":"GET","url":"/","ip":"127.0.0.1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"}
+{"timestamp":"2025-07-30T05:13:05.440Z","level":"INFO","message":"Request completed","method":"GET","url":"/","statusCode":404,"duration":"5ms"}
