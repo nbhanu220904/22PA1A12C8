@@ -1,0 +1,16 @@
+[2025-07-30T05:57:45.440Z] Server started on port 5000
+[2025-07-30T05:58:04.453Z] Server started on port 5000
+[2025-07-30T05:58:46.110Z] Server started on port 5000
+[2025-07-30T05:59:30.693Z] Server started on port 5000
+[2025-07-30T05:59:37.139Z] Server started on port 5000
+[2025-07-30T06:00:53.537Z] Server started on port 5000
+[2025-07-30T06:01:50.115Z] Server started on port 5000
+[2025-07-30T06:01:58.631Z] Server started on port 5000
+[2025-07-30T06:02:15.701Z] Server started on port 5000
+[2025-07-30T06:03:36.948Z] Server started on port 5000
+[2025-07-30T06:07:11.586Z] Server started on port 5000
+[2025-07-30T06:07:48.669Z] POST /shorturls - Body: {"url":"https://docs-cybersec.thalesgroup.com/bundle/on-premises-knowledgebase-reference-guide/page/abnormally_long_url.htm","validity":"120","shortcode":""}
+[2025-07-30T06:07:50.746Z] GET /r00G7g - Body: undefined
+[2025-07-30T06:12:17.480Z] POST /shorturls - Body: {"url":"https://docs-cybersec.thalesgroup.com/bundle/on-premises-knowledgebase-reference-guide/page/abnormally_long_url.htm","validity":"","shortcode":""}
+[2025-07-30T06:14:22.162Z] POST /shorturls - Body: {"url":"https://docs-cybersec.thalesgroup.com/bundle/on-premises-knowledgebase-reference-guide/page/abnormally_long_url.htm","validity":"","shortcode":""}
+[2025-07-30T06:14:34.683Z] POST /shorturls - Body: {"url":"https://docs-cybersec.thalesgroup.com/bundle/on-premises-knowledgebase-reference-guide/page/abnormally_long_url.htm","validity":"","shortcode":""}

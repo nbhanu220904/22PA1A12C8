@@ -1,22 +1,19 @@
-import React from 'react'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import { Container } from '@mui/material'
-import Navigation from './components/Navigation'
-import UrlShortener from './pages/UrlShortener'
-import UrlStatistics from './pages/UrlStatistics'
+import "./App.css";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import ShortenerForm from "./components/shortenerform";
+import StatisticsPage from "./components/StatisticsPage";
 
 function App() {
   return (
-    <Router>
-      <Navigation />
-      <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
+    <>
+      <Router>
         <Routes>
-          <Route path="/" element={<UrlShortener />} />
-          <Route path="/stats" element={<UrlStatistics />} />
+          <Route path="/" element={<ShortenerForm />} />
+          <Route path="/stats" element={<StatisticsPage />} />
         </Routes>
-      </Container>
-    </Router>
-  )
+      </Router>
+    </>
+  );
 }
 
-export default App
+export default App;
